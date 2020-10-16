@@ -1,5 +1,5 @@
 # ETSIAEUPM-Optimizacion
-Este repositorio alberga el proyecto de optimización desarrollado para la asignatura de 'Control y Optimización' de 3º curso del Grado en Ingeniería Aeroespacial (UPM). El lenguaje de programación utilizado es MATLAB.
+Este repositorio alberga el proyecto de optimización desarrollado para la asignatura de 'Control y Optimización' de 3º curso del Grado en Ingeniería Aeroespacial en la Universidad Politécnica de Madrid. El lenguaje de programación utilizado es MATLAB.
 
 El documento PDF 'Trabajo Optimización - enunciado' contiene una introducción al problema propuesto, así como las pautas esquemáticas que ha de seguir el proyecto.
 
